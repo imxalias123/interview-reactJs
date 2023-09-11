@@ -1,0 +1,20 @@
+.tab-btn {
+  border-radius: 10px;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'roboto';
+  margin: 20px;
+  padding: 3px;
+}
+li {
+  list-style-type: none;
+}
+.pressed {
+  color: #fff;
+  background-color: #db1c48;
+}
